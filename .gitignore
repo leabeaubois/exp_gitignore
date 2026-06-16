@@ -1,0 +1,11 @@
+# ignore le fichier data.txt
+data.txt
+
+# tous les fichiers au format .txt
+*.txt 
+
+# data devant et avant le point 
+data*.* 
+
+# tout ce qui est dans le dossier /test
+test/* 
